@@ -1,0 +1,16 @@
+table {
+    margin: auto;
+    width: 50%;
+    border-collapse: collapse;
+    border: 2px solid gray;
+    text-align: left;
+}
+
+td, th {
+    border: 1px solid gray;
+    padding: 8px;
+}
+
+h1 {
+    text-align: center;
+}
